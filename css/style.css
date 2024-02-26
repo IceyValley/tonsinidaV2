@@ -268,7 +268,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/bg1.webp);
+    background-image: url(../images/bg1.png);
     height: auto;
     background-size: 100%;
     padding: 10px 0px 25px 0px;
@@ -285,7 +285,7 @@ button {
     width: 100%;
     float: left;
     font-size: 60px;
-    color: #252525;
+    color: #bf6804;
     padding-bottom: 0px;
 }
 
