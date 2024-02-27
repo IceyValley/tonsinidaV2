@@ -541,17 +541,17 @@ a:hover {
 .services_section {
     width: 100%;
     float: left;
-    background-image: url(../images/services-bg.png);
+    background-image: url(../images/advantage.jpg);
     height: auto;
     padding-bottom: 100px;
-    background-attachment: fixed;
+    background-attachment:fixed;
 }
 
 .services_taital {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #ffffff;
+    color: #f76a05;
     font-weight: bold;
     text-align: center;
 }
@@ -560,9 +560,11 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #f65505;
     margin: 0px;
     text-align: center;
+    font-weight: bolder;
+
 }
 
 .house_icon {
@@ -601,6 +603,7 @@ a:hover {
     background-color: #f76d37;
     padding: 40px 30px;
     box-shadow: 0px 0px 18px -6px;
+ 
 }
 
 .box_main:hover .decorate_text {
@@ -629,7 +632,7 @@ a:hover {
 .decorate_text {
     width: 100%;
     font-size: 28px;
-    color: #ffffff;
+    color: #100000;
     padding-top: 30px;
     text-align: center;
 }
@@ -637,7 +640,7 @@ a:hover {
 .tation_text {
     width: 100%;
     font-size: 14px;
-    color: #ffffff;
+    color: #080000;
     margin: 0px;
     text-align: center;
 }
